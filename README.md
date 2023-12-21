@@ -2,9 +2,7 @@
 
 A Wimshurst machine with a 6 pack of Leyden jars.
 
-TODO: picture
-
-TODO: picture labeled
+![images/wimshurst-machine.jpg](images/wimshurst-machine.jpg)
 
 I had trouble recording it, but the best I could get was a half inch spark gap.
 1 inch spark gap is about 30kV, so I guess I generated about 15kV.
