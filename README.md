@@ -1,6 +1,6 @@
 # wimshurst-machine
 
-A Wimshurst machine with a 6 pack of Leyden jars.
+A [Wimshurst machine](https://en.wikipedia.org/wiki/Wimshurst_machine) made to learn about electrostatic generators.
 
 ![images/wimshurst-machine.jpg](images/wimshurst-machine.jpg)
 
